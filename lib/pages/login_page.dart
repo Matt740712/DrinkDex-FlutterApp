@@ -13,6 +13,7 @@ class _LoginPageState extends State<LoginPage> {
   bool areFieldsValid = false;
   String defaultEmail = 'prof';
   String defaultPassword = '1234';
+  //non va 
 
   void checkFieldsValidity() {
     if (emailController.text == defaultEmail &&
