@@ -26,8 +26,7 @@ class _LoginPageState extends State<LoginPage> {
       });
     }
   }
-//test 2 
-//test commit
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
